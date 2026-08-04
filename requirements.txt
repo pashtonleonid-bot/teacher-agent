@@ -1,3 +1,7 @@
 streamlit
 langchain-openai
 langchain-core
+pypdf
+python-docx
+beautifulsoup4
+requests
